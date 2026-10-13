@@ -1,6 +1,6 @@
 # Hey 👋, I'm Jan Mike Cuña!
 
----
+--- 
 
 ### About Me 💼
 
