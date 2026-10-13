@@ -34,7 +34,7 @@
 - **Bug Bounty Hunting**: Gain expertise in finding vulnerabilities and reporting them ethically.
 - **Advanced Python**: Continue improving my Python skills to support security analysis and automation.
 
----
+--- 
 
 ### Get in Touch 🌐
 
